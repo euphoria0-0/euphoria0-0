@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :stuck_out_tongue_winking_eye: euphoria0-0
+
+Hi! What a cute this ✨ _special_ ✨ repository!
+I studied Statistics in University of Seoul and I'm going to study in graduates school.
+
+### :fire: My Interests :fire:
+
+- Python (Tensorflow(Low-Intermediate), Pytorch(Biginner))
+- Data Science and Statistics
+- Computer Vision with Deep Learning
+
+### :love_letter: Contact Me :love_letter:
+- Linkedin:
+- email: 1996sypark@gmail.com
+
+Have fun!
