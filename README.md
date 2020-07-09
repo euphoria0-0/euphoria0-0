@@ -23,7 +23,7 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 ### :fire: My Interests :fire:
 
 - Python (Tensorflow(Low-Intermediate), Pytorch(Biginner))
-- Data Science and Statistics
+- Data Science and Statistics in Finance
 - Computer Vision with Deep Learning
 
 ### :love_letter: Contact Me :love_letter:
