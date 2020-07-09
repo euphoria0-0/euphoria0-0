@@ -29,5 +29,8 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 ### :love_letter: Contact Me :love_letter:
 - Linkedin:
 - email: 1996sypark@gmail.com
+- blog1: https://blog.naver.com/tutumd96
+- blog2: https://euphoria0-0.tistory.com 
+- portfolio: https://euphoria0-0.github.io/projects
 
 Have fun!
