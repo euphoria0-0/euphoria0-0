@@ -26,7 +26,7 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 - Data Science and Statistics for special fields
 - Computer Vision with Deep Learning
 
-## :memo: Languages :memo:
+### :memo: Languages :memo:
 - Python : Tensorflow(Low-Intermediate), Pytorch(Biginner)
 - R
 - MySQL
