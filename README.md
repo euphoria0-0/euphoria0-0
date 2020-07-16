@@ -18,13 +18,18 @@ Here are some ideas to get you started:
 ### :stuck_out_tongue_winking_eye: euphoria0-0
 
 Hi! What a cute this ✨ _special_ ✨ repository!
+
 I studied Statistics in University of Seoul and I'm going to study in graduates school.
 
 ### :fire: My Interests :fire:
 
-- Python (Tensorflow(Low-Intermediate), Pytorch(Biginner))
-- Data Science and Statistics in Finance
+- Data Science and Statistics for special fields
 - Computer Vision with Deep Learning
+
+## :memo: Languages :memo:
+- Python : Tensorflow(Low-Intermediate), Pytorch(Biginner)
+- R
+- MySQL
 
 ### :love_letter: Contact Me :love_letter:
 - Linkedin:
