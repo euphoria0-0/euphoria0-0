@@ -28,7 +28,7 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 
 ### :memo: Languages :memo:
 - Python : Tensorflow(Low-Intermediate), PyTorch(Biginner)
-- R [![R Badge](https://img.shields.io/badge/-276DC3?style=flat&logo=R&logoColor=white)]
+- R [![R Badge](https://img.shields.io/badge/-?style=flat&logo=R&logoColor=blue?labelColor=white)]
 - MySQL
 
 ### :love_letter: Contact Me :love_letter:
