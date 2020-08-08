@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - R
 - MySQL
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="32px"/>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="64px"/>
+<img src="https://www.r-project.org/logo/Rlogo.svg" width="64px"/>
 
 
 ### :love_letter: Contact
