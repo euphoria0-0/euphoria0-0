@@ -39,8 +39,8 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1996sypark@gmail.com)](mailto:1996sypark@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/su-yeong-p-782a62187//)](https://www.linkedin.com/in/su-yeong-p-782a62187/)
   [![portfolio Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://euphoria0-0.github.io/projects/)](https://euphoria0-0.github.io/projects/)
-  [![Blog Badge](https://img.shields.io/badge/-Blog-?style=flat&logo=Blogger&logoColor=white&link=https://blog.naver.com/tutumd96/)](https://blog.naver.com/tutumd96/)
-  [![Blog Badge](https://img.shields.io/badge/-Blog-?style=flat&logo=Blogger&logoColor=white&link=https://euphoria0-0.tistory.com/)](https://euphoria0-0.tistory.com/)
+  [![Blog Badge](https://img.shields.io/badge/-Blogger-?style=flat&logo=Blogger&logoColor=white&link=https://blog.naver.com/tutumd96/)](https://blog.naver.com/tutumd96/)
+  [![Blog Badge](https://img.shields.io/badge/-Blogger-?style=flat&logo=Blogger&logoColor=white&link=https://euphoria0-0.tistory.com/)](https://euphoria0-0.tistory.com/)
   
 
 
