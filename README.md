@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 - R
 - MySQL
 
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="20px" alt="" />
+
+
 ### :love_letter: Contact
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1996sypark@gmail.com)](mailto:1996sypark@gmail.com)
