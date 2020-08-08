@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **euphoria0-0/euphoria0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +38,7 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
   [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/su-yeong-p-782a62187//)](https://www.linkedin.com/in/su-yeong-p-782a62187/)
   [![portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&link=https://euphoria0-0.github.io/projects/)](https://euphoria0-0.github.io/projects/)
   [![Blog Badge](https://img.shields.io/badge/-NAVER%20Blog-2DB400?style=flat&logo=Blogger&logoColor=white&link=https://blog.naver.com/tutumd96/)](https://blog.naver.com/tutumd96/)
-  [![Blog Badge](https://img.shields.io/badge/-Tistory%20Blog-black?style=flat&logo=Blogger&logoColor=black&link=https://euphoria0-0.tistory.com/)](https://euphoria0-0.tistory.com/)
+  [![Blog Badge](https://img.shields.io/badge/-Tistory%20Blog-black?style=flat&logo=Blogger&logoColor=white&link=https://euphoria0-0.tistory.com/)](https://euphoria0-0.tistory.com/)
   
 
 #### Have fun! 🌱
