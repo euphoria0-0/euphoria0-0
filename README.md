@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### :memo: Languages
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height='40px'/> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" height="40px"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40px"/>   <img src="https://www.r-project.org/logo/Rlogo.svg" height="35px"/>  <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' height='40px'/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height='40px'/> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" height="40px"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40px"/>   <img src="https://www.r-project.org/logo/Rlogo.svg" height="38px"/>  <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' height='40px'/>
 
 
 ### :love_letter: Contact
