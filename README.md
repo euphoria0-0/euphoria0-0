@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :stuck_out_tongue_winking_eye: euphoria0-0 👋
+### 👋 :stuck_out_tongue_winking_eye: euphoria0-0 
 
 
 
