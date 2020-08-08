@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - R
 - MySQL
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="20px" alt="" />
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="32px"/>
 
 
 ### :love_letter: Contact
