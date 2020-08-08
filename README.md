@@ -27,10 +27,10 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 - Computer Vision with Deep Learning
 
 ### :memo: Languages :memo:
-- Python [![Python Badge](https://img.shields.io/badge/-blue?style=flat&logo=Python&logoColor=blue)]
+- Python [![Python Badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=Python&logoColor=blue)]
   - Tensorflow(Low-Intermediate), PyTorch(Biginner) 
-- R [![R Badge](https://img.shields.io/badge/-white?style=flat&logo=R&logoColor=blue)]
-- MySQL [![MySQL Badge](https://img.shields.io/badge/-white?style=flat&logo=MySQL&logoColor=blue)]
+- R [![R Badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=R&logoColor=blue)]
+- MySQL [![MySQL Badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=MySQL&logoColor=blue)]
 
 ### :love_letter: Contact Me :love_letter:
 
