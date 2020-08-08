@@ -20,16 +20,11 @@ Here are some ideas to get you started:
 
 ### :fire: Interests
 
-- Data Science and Statistics for special fields
-- Computer Vision with Deep Learning
+- Data Science, Statistics, Deep Learning, Computer Vision
 
 ### :memo: Languages
 
-- Python : Tensorflow(Low-Intermediate), PyTorch(Biginner) 
-- R
-- MySQL
-
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height='40px'/> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" height="40px"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40px"/> <img src="https://www.r-project.org/logo/Rlogo.svg" height="35px"/> <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' height='40px'/>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height='40px'/> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" height="40px"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40px"/>   <img src="https://www.r-project.org/logo/Rlogo.svg" height="35px"/>  <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' height='40px'/>
 
 
 ### :love_letter: Contact
