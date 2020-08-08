@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 - R
 - MySQL
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height='40px'/>
-<img src="https://www.r-project.org/logo/Rlogo.svg" height="40px"/>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height='40px'/> <img src="https://www.r-project.org/logo/Rlogo.svg" height="40px"/> <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' height='40px'/>
 
 
 ### :love_letter: Contact
