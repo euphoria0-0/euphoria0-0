@@ -28,9 +28,9 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 
 ### :memo: Languages :memo:
 
- ![Python Badge](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=blue&labelColor=black)
- ![R Badge](https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=blue&labelColor=black)
- ![MySQL Badge](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=blue&labelColor=black)
+ ![Python Badge](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=blue&labelColor=white)
+ ![R Badge](https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=blue&labelColor=white)
+ ![MySQL Badge](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=blue&labelColor=white)
 
 - Python : Tensorflow(Low-Intermediate), PyTorch(Biginner) 
 - R
