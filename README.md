@@ -27,16 +27,21 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 - Computer Vision with Deep Learning
 
 ### :memo: Languages :memo:
-- Python : Tensorflow(Low-Intermediate), Pytorch(Biginner)
-- R
+- Python : Tensorflow(Low-Intermediate), PyTorch(Biginner)
+- R [![R Badge](https://img.shields.io/badge/Gmail-276DC3?)]
 - MySQL
 
 ### :love_letter: Contact Me :love_letter:
 - portfolio: https://euphoria0-0.github.io/projects
 - Linkedin: 
-- email: 1996sypark@gmail.com
 - blog1: https://blog.naver.com/tutumd96
 - blog2: https://euphoria0-0.tistory.com 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1996sypark@gmail.com)](mailto:1996sypark@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/su-yeong-p-782a62187//)](https://www.linkedin.com/in/su-yeong-p-782a62187//)
+  
+  
+#276DC3
+
 
 
 Have fun!
