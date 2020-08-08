@@ -1,4 +1,3 @@
-#### Hi there 👋
 
 <!--
 **euphoria0-0/euphoria0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :stuck_out_tongue_winking_eye: euphoria0-0
+### :stuck_out_tongue_winking_eye: euphoria0-0 👋
 
-Hi! What a cute this ✨ _special_ ✨ repository!
 
-I studied Statistics in University of Seoul and I'm going to study in graduates school.
 
 ### :fire: My Interests :fire:
 
