@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 
 
-### :fire: My Interests :fire:
+### :fire: Interests
 
 - Data Science and Statistics for special fields
 - Computer Vision with Deep Learning
 
-### :memo: Languages :memo:
+### :memo: Languages
 
 - Python : Tensorflow(Low-Intermediate), PyTorch(Biginner) 
 - R
 - MySQL
 
-### :love_letter: Contact Me :love_letter:
+### :love_letter: Contact
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1996sypark@gmail.com)](mailto:1996sypark@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/su-yeong-p-782a62187//)](https://www.linkedin.com/in/su-yeong-p-782a62187/)
