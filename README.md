@@ -42,5 +42,4 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
   
 
 
-
-Have fun!
+#### Have fun! 🌱
