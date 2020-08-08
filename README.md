@@ -33,11 +33,11 @@ I studied Statistics in University of Seoul and I'm going to study in graduates 
 
 ### :love_letter: Contact Me :love_letter:
 - portfolio: https://euphoria0-0.github.io/projects
-- Linkedin: 
 - blog1: https://blog.naver.com/tutumd96
 - blog2: https://euphoria0-0.tistory.com 
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1996sypark@gmail.com)](mailto:1996sypark@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/su-yeong-p-782a62187//)](https://www.linkedin.com/in/su-yeong-p-782a62187//)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/su-yeong-p-782a62187//)](https://www.linkedin.com/in/su-yeong-p-782a62187//)
   
   
 #276DC3
