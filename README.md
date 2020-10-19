@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### :fire: Interests
 
 - Data Science, Statistics
-- Especially, Causal Machine Learning, Deep Learning with Computer Vision
+- Especially, Causal Machine Learning, Deep Learning for Computer Vision
 
 ### :memo: Languages
 
