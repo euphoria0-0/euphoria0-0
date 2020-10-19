@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ### :fire: Interests
 
-- Data Science, Statistics, Deep Learning, Computer Vision
+- Data Science, Statistics
+- Especially, Causal Machine Learning, Deep Learning with Computer Vision
 
 ### :memo: Languages
 
