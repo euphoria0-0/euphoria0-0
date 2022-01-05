@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 :stuck_out_tongue_winking_eye: euphoria0-0 
+
 
 
 
 ### :fire: Interests
 
-- Data Science, Statistics
-- Especially, Bayesian Deep Learning for Computer Vision, Causality for Machine Learning
+- Data Science, Statistics, Machine Learning
+- Especially, Bayesian Machine Learning for Computer Vision, Causality for Machine Learning
 
 ### :love_letter: Contact
   
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   [![Blog Badge](https://img.shields.io/badge/-Tistory%20Blog-black?style=flat&logo=Blogger&logoColor=white&link=https://euphoria0-0.tistory.com/)](https://euphoria0-0.tistory.com/)
   -->
 
-#### Have fun! 🌱
+
