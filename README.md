@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### :fire: Interests
 
-- Machine Learning, Statistics
+- Machine Learning, Statistics and Causality
 - Currently, Bayesian Machine Learning for Computer Vision, Causality for Machine Learning
 
 ### :love_letter: Contact
