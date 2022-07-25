@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### :fire: Interests
 
-- Machine Learning, Statistics and Causality
-- Currently, Bayesian Machine Learning for Computer Vision, Causality for Machine Learning
+- Causality, Machine Learning, and Statistics
+- Currently, Bayesian Machine Learning, Causal Discovery
 
 ### :love_letter: Contact
   
