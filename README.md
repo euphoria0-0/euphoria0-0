@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://euphoria0-0.github.io)](https://euphoria0-0.github.io)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:euphoria9600@gmail.com)](mailto:suyeong.park0@gmail.com)
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuphoria0-0&count_bg=%23CECECD&title_bg=%2303324C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <!--
 [![portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&link=https://euphoria0-0.github.io/projects/)](https://euphoria0-0.github.io/projects/)
