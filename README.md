@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 ### :fire: Interests
 
-- Causality, Machine Learning, Bayesian Learning, and Statistics
+- Causality, Machine Learning, Bayesian Learning, and Privacy-Preserving Machine Learning
 
 ### :love_letter: Contact
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://euphoria0-0.github.io)](https://euphoria0-0.github.io)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:euphoria9600@gmail.com)](mailto:suyeong.park0@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://euphoria0-0.github.io)](https://euphoria0-0.github.io)
+  [![GScholar Badge](https://img.shields.io/badge/-Google%20Scholar-blue)](https://scholar.google.com/citations?user=-pQY91AAAAAJ&hl=ko)
 
 
 
