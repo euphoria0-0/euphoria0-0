@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### :love_letter: Contact
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:euphoria9600@gmail.com)](mailto:suyeong.park0@gmail.com)
-  [![About ME Badge](https://img.shields.io/badge/-About%20ME-blue?style=flat&logo=aboutdotme&link=https://euphoria0-0.github.io/tabs/about/)](https://euphoria0-0.github.io/tabs/about/)
+  [![About ME Badge](https://img.shields.io/badge/-About%20ME-blue?style=flat&logo=aboutdotme&link=https://euphoria0-0.github.io/about/)](https://euphoria0-0.github.io/about/)
   [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://euphoria0-0.github.io)](https://euphoria0-0.github.io)
 
 
