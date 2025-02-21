@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### :fire: Interests
 
-- Causality, Machine Learning, Bayesian Learning, and Privacy-Preserving Machine Learning
+- Causality, Machine Learning, Bayesian Inference, and Privacy-Preserving Machine Learning
 
 ### :love_letter: Contact
   
