@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
   
-[![Hits](https://hits.sh/github.com/euphoria0-0.svg?color=007ec6)](https://hits.sh/github.com/euphoria0-0/)
+[![Hits](https://hits.sh/github.com/euphoria0-0.svg?view=today-total)](https://hits.sh/github.com/euphoria0-0/)
 
 
